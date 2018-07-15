@@ -1,1 +1,2 @@
 # 2015-Nigerian-Presidential-Election-Results-Analysis
+# After three (3) years that Independent National Electoral Commission (INEC - the body that Conducts elections into elective offices in Nigeria) released the last ("2015 - Nigerian Presidential Election Result "), I decided to play around using the data to analyse my first project in Python programming. Having started learning python programming in just three (3) months and two (2) months experience in data science world. 
